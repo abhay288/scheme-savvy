@@ -2,7 +2,7 @@
 
 **Scheme Savvy Bot** is an AI-powered chatbot built using [Botpress](https://botpress.com) that helps Indian students, parents, and citizens discover and apply for government schemes, scholarships, and financial aid.
 
-🌐 [Try the Bot Now]([https://studio.botpress.cloud/home?exploreHub=1&hubItemId=intver_01JX05Y9J5BXTKJHFT1014FGYX](https://cdn.botpress.cloud/webchat/v3.0/shareable.html?configUrl=https://files.bpcontent.cloud/2025/06/10/17/20250610173857-AJRGHVD0.json))
+🌐 Chat bot link [ https://cdn.botpress.cloud/webchat/v3.0/shareable.html?configUrl=https://files.bpcontent.cloud/2025/06/10/17/20250610173857-AJRGHVD0.json ]
 
 Use in WhatsApp - https://cdn.botpress.cloud/webchat/v3.0/shareable.html?configUrl=https://files.bpcontent.cloud/2025/06/10/17/20250610173857-AJRGHVD0.json
 After open the link Firstly Send this code - AR854Q
